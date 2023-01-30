@@ -1,0 +1,78 @@
+[{
+  "_id": "63916cb37400a23f42d2308b",
+  "name": "Cathedral of Learning",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg", "https://upload.wikimedia.org/wikipedia/commons/f/fa/CoLCommonsRoomUPitt.jpg", "https://upload.wikimedia.org/wikipedia/commons/0/08/CathedralofLearningFountain.jpg"],
+  "short_info": "<p><br /></p>",
+  "long_info": "<p><br /></p>",
+  "category": "Historical Location",
+  "lat": 40.44401974300914,
+  "long": -79.9535868920786,
+  "__v": 3,
+  "isComplete": false
+}, {
+  "_id": "6391fd3144e928a63e0cad4a",
+  "name": "Carnegie Museum of Art",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/1/18/Carnegie_Museum_of_Art.JPG", "https://upload.wikimedia.org/wikipedia/commons/3/3f/Portal_of_the_North_Transept_of_the_Cathedral_of_Saint-Andre_at_Bourdaux_at_CMArt.JPG"],
+  "short_info": "<p>The Carnegie Museum of Art was founded in 1895 by Scottish-American industrialist Andrew Carnegie, one of the first museums of contemporary art in the United States. The collections feature a broad spectrum of visual art, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The impressive Hall of Architecture contains full-size plaster casts of elements of buildings found in the ancient and classical societies of Egypt, Greece, and Rome. The museum is also home to the Carnegie International, the longest-running North American exhibition of international contemporary art.</p>",
+  "long_info": "<p>The Carnegie Museum of Art was founded in 1895 by Scottish-American industrialist Andrew Carnegie, one of the first museums of contemporary art in the United States. The collections feature a broad spectrum of visual art, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The impressive Hall of Architecture contains full-size plaster casts of elements of buildings found in the ancient and classical societies of Egypt, Greece, and Rome. The museum is also home to the Carnegie International, the longest-running North American exhibition of international contemporary art.</p>",
+  "category": "Museum",
+  "lat": 40.444258782688706,
+  "long": -79.94948436460314,
+  "__v": 4,
+  "isComplete": true
+}, {
+  "_id": "6397650d682309e5ffb2c4d1",
+  "name": "Redhawk Coffee",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "short_info": "<p>A small Pittsburgh based roastery.</p>",
+  "long_info": "<p>A small Pittsburgh-based roastery located at 120 Meyran, Ave in Oakland.</p>",
+  "category": "Coffee Shop",
+  "lat": 40.440834865697155,
+  "long": -79.95866599025558,
+  "isComplete": true,
+  "__v": 4
+}, {
+  "_id": "63976671682309e5ffb2c4e8",
+  "name": "Wesley W. Posvar Hall",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/2/2a/Wesley_Wentz_Posvar_Hall.JPG", " https://upload.wikimedia.org/wikipedia/commons/2/2b/PosvarHallinterior2014.jpg"],
+  "short_info": "<p>Conference registration and sessions are located in Posvar Hall. Building entrances are located on Schenley Drive and S. Bouquet Street.</p>",
+  "long_info": "<p>Wesley W. Posvar Hall, or simply Posvar Hall, was named after the University of Pittsburgh's 15th chancellor. It is the home of Pitt's World History Center and other University units that support globally-facing teaching and scholarship including the History Department and the University Center for International Studies which includes the Global Studies, African Studies, Asian Studies, Latin American Studies, European Studies and Russian, Eastern European and Eurasian Studies Centers. </p><p><br /></p>",
+  "category": "WHA Location",
+  "lat": 40.441885,
+  "long": -79.953228,
+  "isComplete": true,
+  "__v": 0
+}, {
+  "_id": "639e3ee3fae76ee461104a1a",
+  "name": "YINZ Coffee (in Carnegie Library)",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "short_info": "",
+  "long_info": "",
+  "category": "Coffee Shop",
+  "lat": 40.442633,
+  "long": -79.951209,
+  "isComplete": false,
+  "__v": 1
+}, {
+  "_id": "639e6c83fae76ee461104a29",
+  "name": "Dunkin Donuts",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "short_info": "",
+  "long_info": "",
+  "category": "Coffee Shop",
+  "lat": 40.4422328,
+  "long": -79.95634817,
+  "isComplete": false,
+  "__v": 1
+}, {
+  "_id": "63d40e439629cb68fa26861f",
+  "name": "Starbucks",
+  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "short_info": "",
+  "long_info": "",
+  "category": "Coffee Shop",
+  "lat": 40.4436,
+  "long": -79.9557,
+  "isComplete": false,
+  "__v": 1
+}]
