@@ -1,7 +1,13 @@
 [{
-  "_id": "63916cb37400a23f42d2308b",
+  "_id": {
+    "$oid": "63916cb37400a23f42d2308b"
+  },
   "name": "Cathedral of Learning",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg", "https://upload.wikimedia.org/wikipedia/commons/f/fa/CoLCommonsRoomUPitt.jpg", "https://upload.wikimedia.org/wikipedia/commons/0/08/CathedralofLearningFountain.jpg"],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/f/fa/CoLCommonsRoomUPitt.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/0/08/CathedralofLearningFountain.jpg"
+  ],
   "short_info": "<p><br /></p>",
   "long_info": "<p><br /></p>",
   "category": "Historical Location",
@@ -9,70 +15,237 @@
   "long": -79.9535868920786,
   "__v": 3,
   "isComplete": false
-}, {
-  "_id": "6391fd3144e928a63e0cad4a",
+},{
+  "_id": {
+    "$oid": "6391fd3144e928a63e0cad4a"
+  },
   "name": "Carnegie Museum of Art",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/1/18/Carnegie_Museum_of_Art.JPG", "https://upload.wikimedia.org/wikipedia/commons/3/3f/Portal_of_the_North_Transept_of_the_Cathedral_of_Saint-Andre_at_Bourdaux_at_CMArt.JPG"],
-  "short_info": "<p>The Carnegie Museum of Art was founded in 1895 by Scottish-American industrialist Andrew Carnegie, one of the first museums of contemporary art in the United States. The collections feature a broad spectrum of visual art, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The impressive Hall of Architecture contains full-size plaster casts of elements of buildings found in the ancient and classical societies of Egypt, Greece, and Rome. The museum is also home to the Carnegie International, the longest-running North American exhibition of international contemporary art.</p>",
-  "long_info": "<p>The Carnegie Museum of Art was founded in 1895 by Scottish-American industrialist Andrew Carnegie, one of the first museums of contemporary art in the United States. The collections feature a broad spectrum of visual art, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The impressive Hall of Architecture contains full-size plaster casts of elements of buildings found in the ancient and classical societies of Egypt, Greece, and Rome. The museum is also home to the Carnegie International, the longest-running North American exhibition of international contemporary art.</p>",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/18/Carnegie_Museum_of_Art.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/3/3f/Portal_of_the_North_Transept_of_the_Cathedral_of_Saint-Andre_at_Bourdaux_at_CMArt.JPG"
+  ],
+  "short_info": "<p>The Carnegie Museum of Art was founded in 1895 by Scottish-American industrialist Andrew Carnegie, one of the first museums of contemporary art in the United States. WHA conference registrants can visit the Carnegie Museum for free during the conference with their conference badge. Please show your conference badge at the ticket counter in order to visit the museum.</p>",
+  "long_info": "<p>The collections feature a broad spectrum of visual art, including painting and sculpture; prints and drawings; photographs; architectural casts, renderings, and models; decorative arts and design; and film, video, and digital imagery. The impressive Hall of Architecture contains full-size plaster casts of elements of buildings found in the ancient and classical societies of Egypt, Greece, and Rome. The museum is also home to the Carnegie International, the longest-running North American exhibition of international contemporary art.</p>",
   "category": "Museum",
   "lat": 40.444258782688706,
   "long": -79.94948436460314,
   "__v": 4,
   "isComplete": true
-}, {
-  "_id": "6397650d682309e5ffb2c4d1",
+},{
+  "_id": {
+    "$oid": "6397650d682309e5ffb2c4d1"
+  },
   "name": "Redhawk Coffee",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
-  "short_info": "<p>A small Pittsburgh based roastery.</p>",
-  "long_info": "<p>A small Pittsburgh-based roastery located at 120 Meyran, Ave in Oakland.</p>",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d6/Unstamp_convenio_del_cafe_11.jpg"
+  ],
+  "short_info": "<p>A small Pittsburgh based roastery located at 120 Meyran, Ave in Oakland.</p>",
+  "long_info": "<p><br /></p>",
   "category": "Coffee Shop",
   "lat": 40.440834865697155,
   "long": -79.95866599025558,
   "isComplete": true,
-  "__v": 4
-}, {
-  "_id": "63976671682309e5ffb2c4e8",
-  "name": "Wesley W. Posvar Hall",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/2/2a/Wesley_Wentz_Posvar_Hall.JPG", " https://upload.wikimedia.org/wikipedia/commons/2/2b/PosvarHallinterior2014.jpg"],
-  "short_info": "<p>Conference registration and sessions are located in Posvar Hall. Building entrances are located on Schenley Drive and S. Bouquet Street.</p>",
-  "long_info": "<p>Wesley W. Posvar Hall, or simply Posvar Hall, was named after the University of Pittsburgh's 15th chancellor. It is the home of Pitt's World History Center and other University units that support globally-facing teaching and scholarship including the History Department and the University Center for International Studies which includes the Global Studies, African Studies, Asian Studies, Latin American Studies, European Studies and Russian, Eastern European and Eurasian Studies Centers. </p><p><br /></p>",
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "63976671682309e5ffb2c4e8"
+  },
+  "name": "Wesley W. Posvar Hall (Schenley Dr. entrance)",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Wesley_Wentz_Posvar_Hall.JPG",
+    " https://upload.wikimedia.org/wikipedia/commons/2/2b/PosvarHallinterior2014.jpg",
+    " https://upload.wikimedia.org/wikipedia/en/7/7a/ForbesPlateinPosvar.jpg"
+  ],
+  "short_info": "<p>Conference registration and sessions are located in Posvar Hall. Building entrances are located on Schenley Drive and S. Bouquet Street. Conference registration is located in the Global Hub nearest the Schenley Drive entrance.</p><p><br /></p>",
+  "long_info": "<p>Wesley W. Posvar Hall, or simply Posvar Hall, is the home of Pitt's World History Center and other University units that support globally-facing teaching and scholarship including the History Department and the University Center for International Studies.</p><p><br /></p><p>Posvar Hall was constructed on the original site of Forbes Field, home of the Pittsburgh Pirates baseball team from 1909-1970. The Pittsburgh Steelers, Homestead Grays, and the University of Pittsburgh's football team played on the field at various times. The home plate from Forbes Field can be found on the ground floor of Posvar Hall protected under plexiglass. </p>",
   "category": "WHA Location",
   "lat": 40.441885,
   "long": -79.953228,
   "isComplete": true,
-  "__v": 0
-}, {
-  "_id": "639e3ee3fae76ee461104a1a",
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "639e3ee3fae76ee461104a1a"
+  },
   "name": "YINZ Coffee (in Carnegie Library)",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
-  "short_info": "",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Unstamp_coffee_agreement_5.jpg"
+  ],
+  "short_info": "<p>Pittsburgh-based Yinz Coffee is located inside the Carnegie Library on the first floor.</p>",
   "long_info": "",
   "category": "Coffee Shop",
   "lat": 40.442633,
   "long": -79.951209,
-  "isComplete": false,
-  "__v": 1
-}, {
-  "_id": "639e6c83fae76ee461104a29",
+  "isComplete": true,
+  "__v": 5
+},{
+  "_id": {
+    "$oid": "639e6c83fae76ee461104a29"
+  },
   "name": "Dunkin Donuts",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d6/Unstamp_convenio_del_cafe_11.jpg"
+  ],
   "short_info": "",
   "long_info": "",
   "category": "Coffee Shop",
   "lat": 40.4422328,
   "long": -79.95634817,
-  "isComplete": false,
-  "__v": 1
-}, {
-  "_id": "63d40e439629cb68fa26861f",
+  "isComplete": true,
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "63d40e439629cb68fa26861f"
+  },
   "name": "Starbucks",
-  "images": ["https://upload.wikimedia.org/wikipedia/commons/e/e4/Latte_and_dark_coffee.jpg"],
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d6/Unstamp_convenio_del_cafe_11.jpg"
+  ],
   "short_info": "",
   "long_info": "",
   "category": "Coffee Shop",
   "lat": 40.4436,
   "long": -79.9557,
-  "isComplete": false,
+  "isComplete": true,
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "64667059c4a4f83a1c6afc9a"
+  },
+  "name": "David Lawrence Hall",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/d/d5/DavidLawrenceHall.jpg"
+  ],
+  "short_info": "<p>David Lawrence Hall 120 is the location of the WHA opening Welcome and Keynote address, Thursday, June 22 at 4:00PM. In front of the building stands the sculpture <em>Ode to Space</em> by Pitt's Virgil Cantini, a memorial to Pitt Chancellor Edward Litchfield, who died in a 1965 plane crash.</p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.44269290088564,
+  "long": -79.95530082350594,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64667305c4a4f83a1c6afcbd"
+  },
+  "name": "Wesley W. Posvar Hall (S. Bouquet entrance)",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/2/2a/Wesley_Wentz_Posvar_Hall.JPG",
+    " https://upload.wikimedia.org/wikipedia/commons/2/2b/PosvarHallinterior2014.jpg",
+    " https://upload.wikimedia.org/wikipedia/en/7/7a/ForbesPlateinPosvar.jpg"
+  ],
+  "short_info": "<p>Conference registration and sessions are located in Posvar Hall. Building entrances are located on Schenley Drive and S. Bouquet Street. Conference registration is located in the Global Hub nearest the Schenley Drive entrance.</p>",
+  "long_info": "<p>Wesley W. Posvar Hall, or simply Posvar Hall, is the home of Pitt's World History Center and other University units that support globally-facing teaching and scholarship including the History Department and the University Center for International Studies.</p><p><br /></p><p>Posvar Hall was constructed on the original site of Forbes Field, home of the Pittsburgh Pirates baseball team from 1909-1970. The Pittsburgh Steelers, Homestead Grays, and the University of Pittsburgh's football team played on the field at various times. The home plate from Forbes Field can be found on the ground floor of Posvar Hall protected under plexiglass.</p>",
+  "category": "WHA Location",
+  "lat": 40.441277303537476,
+  "long": -79.95514010596324,
+  "isComplete": true,
   "__v": 1
+},{
+  "_id": {
+    "$oid": "646675dbc4a4f83a1c6afce0"
+  },
+  "name": "Phipps Conservatory and Botanical Gardens",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/88/Phipps_Conservatory_winter_2015_welcome_center.jpg",
+    "  https://upload.wikimedia.org/wikipedia/commons/b/b9/Phipps_Conservatory_1893.jpg",
+    "  https://upload.wikimedia.org/wikipedia/commons/7/7a/Phipps_Conservatory_Spice_Room.jpg"
+  ],
+  "short_info": "<p>Founded in 1893 as a gift to the city of Pittsburgh, the Phipps Conservatory and Botanical Gardens is an urban oasis spanning 15 acres. It showcases a diverse range of plant species from around the world within its historic glasshouse and beautiful outdoor gardens. The WHA opening reception will take place in the Outdoor Garden on Thursday, June 22. </p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.43954705963723,
+  "long": -79.94679693278906,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "64667827c4a4f83a1c6afd0e"
+  },
+  "name": "Divvy Coffee &amp; Buns",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6e/Unstamp_coffee_agreement_5.jpg"
+  ],
+  "short_info": "<p>Local shop for coffee and sweet and savory buns. </p>",
+  "long_info": "",
+  "category": "Coffee Shop",
+  "lat": 40.44143906121755,
+  "long": -79.95712025707792,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64668394c4a4f83a1c6afd2c"
+  },
+  "name": "Frick Fine Arts Building ",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/c1/FrickFineArts.jpg",
+    " https://upload.wikimedia.org/wikipedia/commons/9/94/Art_gallery_at_the_Frick_Fine_Arts_Building_2.jpg"
+  ],
+  "short_info": "<p>The closing keynote address will be held in 125 Auditorium on the first floor of the Frick Fine Arts Building. The closing reception will take place in the Frick Fine Arts Cloister, which is on the main floor and serves as the building lobby. The Cloister features a gallery, as well as large glass panes in the center of the room that provide a view to the outdoor garden. The Frick Fine Arts Building is home to the Studio Art and History of Art and Architecture Departments. This academic building was gifted by Helen Clay Frick in memory of her father, Henry Clay Frick. </p><p><br /></p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.44173754782001,
+  "long": -79.95140454654228,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "646688f2c4a4f83a1c6afd5b"
+  },
+  "name": "Hillman Library Archive &amp; Special Collections Exhibit",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/1/11/HillmanLibraryPitt.jpg"
+  ],
+  "short_info": "<p><span>Conference attendees can visit a special exhibit created for this conference titled </span><em>Pittsburgh Energies, Global Impacts</em><span> in the exhibit gallery on the third floor of Hillman Library. This conference theme of energy - found in Pittsburgh and its impact on the world - is captured in the items from the University of Pittsburgh Library System’s Archives &amp; Special Collections on display in this exhibit. During construction, the entrance to Hillman Library is on Forbes Avenue. </span></p><p><br /></p><p>Visitors can also see other exhibits currently on display including <em>Transnational Solidarity: Cuba speaks through </em><em>Nicolás Guillén, </em><span>a poet of social protest and the leader of the Afro-Cuban / Afro-Antillean movement throughout the 1920s and 1930s; Selections from the George A. Romero Archival Collection which features props, publicity, and production materials from across the career of George A. Romero, an independent horror filmmaker best known for Night of the Living Dead; and </span><em>The Art of Noh: Woodblock Prints by Tsukioka Kōgyo</em><span> showcases reproductions of a spectacular series of Japanese color woodblock prints by the artist Tsukioka Kōgyo (1869-1927). </span></p><p><br /></p><p><br /></p><p><br /></p><p><span> </span></p><p><br /></p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.44290739011159,
+  "long": -79.95454171780639,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64677c55c4a4f83a1c6afd66"
+  },
+  "name": "Wyndham Pittsburgh University Center",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/4/41/Pittsburgh%2C_Pennsylvania.jpg"
+  ],
+  "short_info": "<p>The Wyndham Pittsburgh University Center is a stones throw from campus and the preferred hotel of the University of Pittsburgh.  </p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.44583797152473,
+  "long": -79.9549231807412,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6467800ac4a4f83a1c6afd86"
+  },
+  "name": "Bouquet Gardens Apartments",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/63/BouquetGardens.jpg"
+  ],
+  "short_info": "<p>Bouquet Gardens is located a short walk from the heart of Pitt campus and Posvar Hall, where much of the World History Association Conference will take place. Bouquet Gardens is apartment style housing. </p><p><br /></p>",
+  "long_info": "",
+  "category": "WHA Location",
+  "lat": 40.44127374252507,
+  "long": -79.95576073809451,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "646b6ba6c4a4f83a1c6afdae"
+  },
+  "name": "Gardner Steel Conference Center",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/0/0c/Gardner_Steel_Conference_Center_Daderot.jpg "
+  ],
+  "short_info": "<p>Gardner Steel Conference Center (GSCC) was built from 1911-1912 by the Pittsburgh architectural firm of Kienhel and Elliot. Now a University academic building, the site originally served as the Central Turnverein, a German-American social and athletic association. Gardner Steel Conference Center is a contributing property to the Schenley Farms National Historic District, a significant example of early 20th century planned residential and civic development. </p>",
+  "long_info": "<p>In many ways German-speaking immigrants shaped the physical and social landscape of Pittsburgh. The majority of diverse people who were held together by a shared German language migrated to Pittsburgh in the 19th century. German-speakers established religious, social, and financial institutions like Turnerein societies which served as both centers for exercise and social activity. The Gardner Steel Conference Center served as the site of one of many Turnerein societies in the city. Although cultural assimilation would gradually take a toll on membership in German-speaking institutions, many still endure in Pittsburgh today like the Teutonia Männerchor which has celebrated German song and dance for 150 years. </p><p><br /></p><p>Gardner Steel Conference Center was designed by German-born architect Richard Kiehnel. It stands out for its ornamental details over the entrance doors and cornice which were inspired by the German art nouveau movement, called “jugendstil.” As a part of the Schenley Farms National Historic District, the building adds to the historical significance and architectural integrity of the district. The area that creates the district was largely designed by F.F. Nicola in 1905 as a “model city” that combined a residential enslave adjacent to monumental civic buildings. The district contains buildings that were constructed by prominent Pittsburgh architects in international styles. </p><p><br /></p><p><strong>Further reading: </strong>Michael Shaunghnessy, <em>German Pittsburgh </em>(Arcadia Pub, 2007); Christina Mann, \"National Register of Historic Places Inventory-Nomination Form: Schenley Farms Historic District\"</p>",
+  "category": "Historical Location",
+  "lat": 40.444536098933014,
+  "long": -79.95799368082048,
+  "isComplete": true,
+  "__v": 0
 }]
