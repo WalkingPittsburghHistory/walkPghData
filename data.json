@@ -161,11 +161,11 @@
   "_id": {
     "$oid": "64667827c4a4f83a1c6afd0e"
   },
-  "name": "Divvy Coffee &amp; Buns",
+  "name": "Divvy Coffee and Buns",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/6/6e/Unstamp_coffee_agreement_5.jpg"
   ],
-  "short_info": "<p>Local shop for coffee and sweet and savory buns. </p>",
+  "short_info": "<p>Local shop for coffee and sweet and savory buns.</p>",
   "long_info": "",
   "category": "Coffee Shop",
   "lat": 40.44143906121755,
@@ -192,11 +192,11 @@
   "_id": {
     "$oid": "646688f2c4a4f83a1c6afd5b"
   },
-  "name": "Hillman Library Archive &amp; Special Collections Exhibit",
+  "name": "Hillman Library Archive and Special Collections Exhibit",
   "images": [
     "https://upload.wikimedia.org/wikipedia/commons/1/11/HillmanLibraryPitt.jpg"
   ],
-  "short_info": "<p><span>Conference attendees can visit a special exhibit created for this conference titled </span><em>Pittsburgh Energies, Global Impacts</em><span> in the exhibit gallery on the third floor of Hillman Library. This conference theme of energy - found in Pittsburgh and its impact on the world - is captured in the items from the University of Pittsburgh Library System’s Archives &amp; Special Collections on display in this exhibit. During construction, the entrance to Hillman Library is on Forbes Avenue. </span></p><p><br /></p><p>Visitors can also see other exhibits currently on display including <em>Transnational Solidarity: Cuba speaks through </em><em>Nicolás Guillén, </em><span>a poet of social protest and the leader of the Afro-Cuban / Afro-Antillean movement throughout the 1920s and 1930s; Selections from the George A. Romero Archival Collection which features props, publicity, and production materials from across the career of George A. Romero, an independent horror filmmaker best known for Night of the Living Dead; and </span><em>The Art of Noh: Woodblock Prints by Tsukioka Kōgyo</em><span> showcases reproductions of a spectacular series of Japanese color woodblock prints by the artist Tsukioka Kōgyo (1869-1927). </span></p><p><br /></p><p><br /></p><p><br /></p><p><span> </span></p><p><br /></p>",
+  "short_info": "<p>Conference attendees can visit a special exhibit created for this conference titled <em>Pittsburgh Energies, Global Impacts</em> in the exhibit gallery on the third floor of Hillman Library. This conference theme of energy - found in Pittsburgh and its impact on the world - is captured in the items from the University of Pittsburgh Library System’s Archives &amp; Special Collections on display in this exhibit. During construction, the entrance to Hillman Library is on Forbes Avenue. </p><p>Visitors can also see other exhibits currently on display including <em>Transnational Solidarity: Cuba speaks through Nicolás Guillén, </em>a poet of social protest and the leader of the Afro-Cuban / Afro-Antillean movement throughout the 1920s and 1930s; Selections from the George A. Romero Archival Collection which features props, publicity, and production materials from across the career of George A. Romero, an independent horror filmmaker best known for Night of the Living Dead; and <em>The Art of Noh: Woodblock Prints by Tsukioka Kōgyo</em> showcases reproductions of a spectacular series of Japanese color woodblock prints by the artist Tsukioka Kōgyo (1869-1927). </p>",
   "long_info": "",
   "category": "WHA Location",
   "lat": 40.44290739011159,
@@ -248,4 +248,132 @@
   "long": -79.95799368082048,
   "isComplete": true,
   "__v": 0
+},{
+  "_id": {
+    "$oid": "648f22d493dc4ef79f7bc00b"
+  },
+  "name": "Dippy the Dinosaur",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/87/DippyStatuteCarnegiePittsburgh.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/37/Mr._Carnegie%27s_Imitation_Dinosaur_%22Makes_a_Hit%22_in_England.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/ae/Large_holland_diplodocus.jpg"
+  ],
+  "short_info": "<p>Visitors of the Carnegie Library and Museum of Natural History may notice a strange sight when walking alongside the western edge of the Carnegie Music Hall – a 84-foot long and 22-feet tall dinosaur that sports a series of rotating accessories. The sculpture of <em>Diplodocus carnegii</em>, affectionately nicknamed “Dippy,” is considered to be the single most famous dinosaur skeleton in the world, with casts of its original skeleton displayed in museums across the globe. Spectators can view the sculpture outside and a reconstruction of the original skeleton in the Carnegie Museum of Natural History – free for WHA conference attendees.</p>",
+  "long_info": "<p>Discovered in the badlands of Wyoming in 1899, area newspapers dubbed the Diplodocus the ‘most colossal animal ever on Earth.’ This caught the attention of none other than steel magnate Andrew Carnegie. Originally classified into two subspecies, scientists named a newly discovered Diplodocus after the billionaire, who had financed the mission to uncover the bones, and thus marked the beginning of the <em>Diplodocus carnegii.</em></p><p><br /></p><p>Dippy was shipped to Pittsburgh and displayed in the Carnegie Museum of Natural History starting in 1907. Carnegie gifted plaster casts of Dippy to the heads of state of eight countries in an attempt to foster the sharing of scientific knowledge and to foster better relations among nations, an act his great-grandson called ‘dinosaur diplomacy.’ Casts of Dippy have been displayed in Berlin, Paris, Vienna, Moscow, Buenos Aires, Mexico City and the United Kingdom. Through this dinosaur diplomacy, Dippy became a global cultural symbol. In fact, in 2015 when the Natural History Museum of London decided to switch out the exhibition for its new Blue Whale exhibit, the hashtag #SaveDippy became trending on Twitter. Starting in 2018, Dippy went on a tour of museums in Britain and is currently at the Herbert Art Gallery &amp; Museum in Coventry, England through 2026. </p><p><br /></p><p>In 1999, a century after its discovery, the Carnegie Museum unveiled a life-size statue of the original skeleton on the street corner of Forbes Avenue. The statue took nine months to complete, and is made completely out of plaster of paris. Serving as a mascot for both the museum and the city of Pittsburgh, Dippy can be seen wearing a rotating collection of seasonal attire, such as the Pittsburgh Steelers’ Terrible Towel, Pitt Athletics colors, and even scarves, sunglasses, and wreaths for the holidays.</p><p><br /></p><p><strong>Further reading:</strong> Bob Batz, “Dippy the star-spangled dinosaur,” <em>Pittsburgh Post-Gazette </em>July 2, 1999; Ilja Nieuwland, <em>American Dinosaur Abroad: A Cultural History of Carnegie’s Plaster Diplodocus </em>(University of Pittsburgh Press, 2020).</p>",
+  "category": "Historical Location",
+  "lat": 40.44359861852237,
+  "long": -79.95143463392097,
+  "isComplete": true,
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "648f3a2c93dc4ef79f7bc034"
+  },
+  "name": "Carnegie Library Main (Oakland)",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e7/CarnegieLibraryPittsburghFrontEntrance.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/3/37/Interior_of_Carnegie_Library_of_Pittsburgh.jpg"
+  ],
+  "short_info": "<p>Gifted by Andrew Carnegie to the the City of Pittsburgh, the Carnegie Library Main branch in Oakland was dedicated on November 5th, 1895, and shared its space with both the Carnegie Museums and Carnegie Music Hall. After a series of renovations starting in 1907, the library now has its own independent space, which marks Forbes Avenue as a center of public resources. The Carnegie Library Main branch is one of thousands of libraries built across the globe with funding from Andrew Carnegie. The legacy of these libraries embody not only Carnegie’s “Gospel of Wealth,” but also the complex racial and class politics of Gilded Age America.</p>",
+  "long_info": "<p>The Carnegie Library Main branch in Pittsburgh was one of thousands of libraries built between 1883 and 1929 and funded by Andrew Carnegie. These libraries were built within the context of the free library movement in the United States. In the second half of the 19th century, middle-class reformers believed libraries were an important tool in a rapidly industrializing world. Libraries could not only provide needed technical knowledge to laborers, reformers thought libraries would also provide the resources for immigrants to succeed in the United States. Carnegie would go on to fund 2,509 public libraries including 1,687 in the United States and others throughout Europe, South Africa, Barbados, Australia, and New Zealand. </p><p><br /></p><p>There is a complicated legacy of Carnegie's libraries. Although heralded as the democratization of knowledge, many Black Americans were prohibited from using public libraries until after World War II. Some communities flat out refused Carnegie’s money for fear they would be forced to open these spaces to Black people. After the violent Homestead Steel Strike, a conflict between laborers and Carnegie’s Steel Company, others refused funding from Carnegie who they saw as an exploitative industrialist. </p><p><br /></p><p>Despite its complex legacy, Carnegie’s libraries have had a far-reaching impact on the United States’ public library system. The Carnegie Library Main branch in Oakland serves as a key community and resource center in Pittsburgh. The location houses the libraries Job &amp; Career Education Center, Gallery at CLP, Music, Film and Audio Department, and the Pennsylvania Department’s local history and genealogy resources.</p><p><br /></p><p><strong>Further Reading:</strong><span> Wayne A. Wiegand, </span><em>Part of our Lives: A People’s History of the American Public Library, </em><span>(Oxford UP, 2015). “Carnegie Libraries: The Future Made Bright (Teaching with Historic Places),” </span><em>the National Park Service. </em></p>",
+  "category": "Historical Location",
+  "lat": 40.44269084551945,
+  "long": -79.95173740769451,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "648f503b93dc4ef79f7bc04d"
+  },
+  "name": "The Hiker Statue",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/e/e1/Hiker_Pittsburgh.jpg"
+  ],
+  "short_info": "<p>The Hiker, a Spanish American War memorial erected in 1925, stands facing Schenley Drive between the Frick Fine Arts Building and the Carnegie Library. Its inscription describes it as being dedicated to those who lost their lives fighting during the war with Spain, and its unique name comes from the title that Spanish-American War veterans called themselves: Hikers. The Hiker statue memorializes the many men (there is no mentioned of the women who worked in the U.S. Army Nurse Division!) from the Pittsburgh and Western PA region who served during the war and found themselves in Puerto Rico, Cuba, and the Philippines. </p>",
+  "long_info": "<p>The Spanish-American War was an international conflict that involved Spain, the Philippines, Cuba, Puerto Rico, Guam, and the United States - including men and women from western Pennsylvania. The 14th and 18th regiments from Pittsburgh would serve close to home, garrisoning coastal defenses in the United States. A volunteer artillery battery, formed from the PA National Guard stationed at Pittsburgh, spent nearly six weeks in Puerto Rico, returning once the cease fire had been declared. Women from the region joined the U.S. Army Nurse Division like Ann B. Heldman, stationed in Cuba, and Emma Chruch, stationed in the Philippines. </p><p><br /></p><p>Soldiers from the 10th Pennsylvania Infantry, which included men from counties neighboring Pittsburgh crossed the Pacific Ocean and landed in the Philippines in July 1898. After the end of the war, the men remained in Manila during the Philippine War of Independence against American occupation. The unit suffered 21 casualties with 70 wounded in action. </p><p><br /></p><p>In an effort to memorialize the veterans of the Spanish-American War, Allegheny County approved the erection of the Hiker statue. The statue is part of a series of replicas of an original created by sculptor Allen George Newman. The popularity of the piece, originally displayed at the 1907 Jamestown Exposition, soared so much so that in the early 20th century dozens of replicas were erected around the United States. </p><p><br /></p><p><strong>Further Reading: </strong>\"Waynesburgh Nurse is Veteran of the Spanish-American War,\" <em>Pittsburgh Post-Gazette</em>, October 9, 1960; Richard A. Sauers, Pennsylvania in the Spanish-American War: A Commemorative Look Back (Pennsylvania Capitol Preservation Committee, 1998).  </p>",
+  "category": "Historical Location",
+  "lat": 40.44193431866722,
+  "long": -79.95041785703522,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648f6cb193dc4ef79f7bc06a"
+  },
+  "name": "Mellon Institute of Industrial Research",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/79/Mellon_Institute_01.JPG",
+    "https://upload.wikimedia.org/wikipedia/en/7/76/JamesBertGarner-gas-masks.jpg"
+  ],
+  "short_info": "<p>Designed by Benno Janssen, the monolithic feat of neo-classical architecture that stands just across the street from Heinz Chapel is known as the Mellon Institute of Industrial Research. It houses various laboratories, administrative offices, and the Dean's office. The Mellon Institute is designated a National Historic Chemical Landmark, recognized for its role in conducting research and training industrial researchers. </p>",
+  "long_info": "<p>The Mellon Institute of Industrial Research was founded in 1913 to solve problems related to manufacturing and industry by brothers Andrew and Richard B. Mellon, by that time owners of banks, insurance companies, coal fields and shipping companies. The idea behind the institute itself was conceived by chemist Robert Kennedy Duncan, who on a recent tour of Europe noted the effective and inventive way German businessmen and scientists cooperated. Thus the Mellon Institute, in the words of historian John Servos, “It had valued patents over publications and product improvements over citations in science journals.” In 1967, the institute merged with the Carnegie Institute of Technology to form Carnegie Mellon University. </p><p><br /></p><p>Developments that would have a global impact were linked to the Mellon Institute of Industrial Research. In 1915, Mellon chemist James B. Garner developed an effective respiratory mask using charcoal to purify air that was widely used in World War I. During World War II, a scientist created the first commercially viable silicone rubber, used by the allies when the natural rubber supply was cut off. And the next time you are at a barbecue, thank the Mellon Institute for cellulose hot dog casings! </p><p><br /></p><p>Despite its relevance to Pittsburgh’s manufacturing industry, the site‘s popularity is mostly due to its greco-roman inspired architecture, which makes it a popular photo spot for tourists, wedding photographers, and students alike. In his design, Benno Janssen sought to replicate the length of the Parthenon itself, with each of the Institute's 62 stone columns standing at an impressive 42 feet high. Architecture enthusiasts can also visit Janssen’s other works, such as the Pittsburgh Athletic Association, Alumni Hall, and Bellefield Hall, which are conveniently located within a walking distance. </p><p><br /></p><p><strong>Further Reading:</strong> John W. Servos, “Changing Partners: The Mellon Institute, Private Industry, and the Federal Patron,” <em>Technology and Culture, </em>Vol. 35 No. 2 (Apr.,1994); “Mellon Institute of Industrial Research,” <em>National Historic Chemical Landmarks</em>. American Chemical Society. </p><p><br /></p>",
+  "category": "Historical Location",
+  "lat": 40.44621116525616,
+  "long": -79.95107471784912,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "648f75ee93dc4ef79f7bc074"
+  },
+  "name": "Carnegie Museum of Natural History",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/76/Carnegie_Museum_of_Natural_History_as_seen_from_Cathedral_of_Learning.jpg",
+    " "
+  ],
+  "short_info": "<p>The Carnegie Museum of Natural History is a natural history museum founded by Andrew Carnegie. When it opened in 1895, the museum’s early collections included artifacts from ancient Egypt, beautiful minerals, exotic wildlife taxidermy, and dinosaurs. WHA conference registrants can visit Carnegie Museum of Natural History for free during the conference with their conference badge. Please show your conference badge at the ticket counter in order to visit the museum.</p>",
+  "long_info": "<p>From the museum: As the museum grew and expanded, Carnegie botanists, entomologists, zoologists, anthropologists, and other scientists studying the natural world traveled abroad on expeditions from the Arctic to the Amazon in search of new discoveries and scientific insights. The artifacts, flora, and fauna they collected grew the Carnegie research and display collection from thousands to millions of objects.</p><p><br /></p><p>Continuing this spirit of exploration, but now a little closer to home, the museum established Powdermill Nature Reserve in 1956. The new field station and laboratory in Rector, Pennsylvania helped museum researchers do long-term studies of natural populations in western Pennsylvania.</p><p><br /></p><p>More than 100 years after Carnegie’s initial gift, Carnegie Museum of Natural History remains a place of scientific inquiry and a world class public institution. As species die out and habitats decline, a new emphasis has been placed on conservation. By displaying nature’s wonders, museum leaders hope to spark conversation about the inherent worth of nature and to inspire a new generation of scientists to conserve both the planet and Carnegie’s vision.</p>",
+  "category": "Museum",
+  "lat": 40.44382574093562,
+  "long": -79.95097458548886,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "648f79b093dc4ef79f7bc08c"
+  },
+  "name": "Heinz History Center",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/6/6f/HistoryCener_from_Strip_District.JPG"
+  ],
+  "short_info": "<p><span>The Heinz History Center is dedicated to preserving and showcasing the history and heritage of Western Pennsylvania. It covers a wide range of topics, including the region's industrial past, ethnic and immigrant history, sports, and more. The center houses extensive collections of artifacts, archival materials, photographs, and oral histories that document the history of the region. WHA conference registrants can visit the Heinz History Center for free during the conference with their conference badge. Please show your conference badge at the ticket counter in order to visit the museum. </span></p>",
+  "long_info": "<p><br /></p><p><br /></p>",
+  "category": "Museum",
+  "lat": 40.44697378651987,
+  "long": -79.99207602955344,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "648f7cc393dc4ef79f7bc0a0"
+  },
+  "name": "Fort Pitt Museum",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/7/72/Plan_of_Fort_Pitt%2C_1759.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/1/19/Bouquet_blockhouse.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/5/53/Point_State_Park_fountain.jpg"
+  ],
+  "short_info": "<p>The Fort Pitt Museum is a historical museum located in Point State Park in Pittsburgh. The museum focuses on the history and significance of Fort Pitt, a strategic fort that played a crucial role during the French and Indian War and the American Revolution. Point State Park is a picturesque urban park located at the confluence of the Allegheny, Monongahela, and Ohio Rivers. WHA conference registrants can visit the Fort Pitt for free during the conference with their conference badge. Please show your conference badge at the ticket counter in order to visit the museum. </p>",
+  "long_info": "",
+  "category": "Museum",
+  "lat": 40.44135885885933,
+  "long": -80.00957911164609,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "648f7dd993dc4ef79f7bc0b3"
+  },
+  "name": "The Andy Warhol Museum",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/8/8a/Andy_Warhol_Museum_-_IMG_7619.JPG",
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/The_Andy_Warhol_Museum.jpg"
+  ],
+  "short_info": "<p>The Andy Warhol Museum is a contemporary art museum located on Pittsburgh's North Shore, Pennsylvania. It is the largest museum in North America dedicated to a single artist, showcasing the life, works, and legacy of the renowned American artist, Andy Warhol. WHA conference registrants can visit the Andy Warhol Museum for free during the conference with their conference badge. Please show your conference badge at the ticket counter in order to visit the museum. The museum is open until 10pm on Fridays.</p>",
+  "long_info": "",
+  "category": "Museum",
+  "lat": 40.448685752021184,
+  "long": -80.0024048693282,
+  "isComplete": true,
+  "__v": 2
 }]
