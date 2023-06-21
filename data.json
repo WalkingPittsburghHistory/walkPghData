@@ -1,22 +1,5 @@
 [{
   "_id": {
-    "$oid": "63916cb37400a23f42d2308b"
-  },
-  "name": "Cathedral of Learning",
-  "images": [
-    "https://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/f/fa/CoLCommonsRoomUPitt.jpg",
-    "https://upload.wikimedia.org/wikipedia/commons/0/08/CathedralofLearningFountain.jpg"
-  ],
-  "short_info": "<p><br /></p>",
-  "long_info": "<p><br /></p>",
-  "category": "Historical Location",
-  "lat": 40.44401974300914,
-  "long": -79.9535868920786,
-  "__v": 3,
-  "isComplete": false
-},{
-  "_id": {
     "$oid": "6391fd3144e928a63e0cad4a"
   },
   "name": "Carnegie Museum of Art",
@@ -376,4 +359,67 @@
   "long": -80.0024048693282,
   "isComplete": true,
   "__v": 2
+},{
+  "_id": {
+    "$oid": "64921b0993dc4ef79f7bc0e0"
+  },
+  "name": "Kuntu Repertory Theatre ",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/en/f/fa/KuntuRepLogo.png",
+    "https://upload.wikimedia.org/wikipedia/commons/6/6c/StephenFosterMemorial.jpg"
+  ],
+  "short_info": "<p>Kuntu Repertory Theatre emerged from the University of Pittsburgh Africana Studies department as a platform for Black artists and technicians to showcase their art, grow their skills, and promote personal and social change. The theater was named for Pittsburgh’s famed African American performing arts group, Kuntu, which means “way” in Bantu. Although the company disbanded in 2013, one can still visit the Stephen Foster Memorial Theater, the home for mainstage productions of Kuntu Repertory Theatre.</p>",
+  "long_info": "<p>Founded in 1974 by Dr. Vernell Lillie, an associate professor in Africana studies, the project had roots in the Black Arts Movement, a movement that sought to empower Black communities and promote cultural pride and self-determination through art, literature, and activism. The playwright August Wilson served as an acting coach for some of its early productions, leading the small theater to national prominence.</p><p><br /></p><p>The theater’s productions prioritized unconventional narratives that diverted from typical western structure, experimenting with African philosophies, and enmeshing different cultural narrative structures within a single piece. Showcasing the works of Rob Penny, Paul Carter Harrison, Janheinz Jahn, and Oliver Jackson, the company held shows around the Pittsburgh area, while its mainstage remained in the Oakland area.</p><p><br /></p><p>After 39 years, Kuntu Repertory Theatre closed in 2013. Upon its closure, Dr. Lillie remained optimistic about the future of the Black theater and art scene in Pittsburgh, noting the New Horizon Theatre and Pittsburgh Playwrights Theatre. Both organizations continue to create high-quality cultural events in Pittsburgh that reflect the experiences and perspectives of Black artists and communities.</p><p><br /></p><p><strong>Further Reading:</strong><em> Kuntu Repertory Theatre Exhibit, </em>Black Lives in Focus Initiative, University of Pittsburgh. Archives: Kuntu Repertory Theatre Collection, 1974-2013, Curtin Theatre Collection, Archives &amp; Special Collections, University of Pittsburgh Library System.</p>",
+  "category": "Historical Location",
+  "lat": 40.44375367396802,
+  "long": -79.95264559064297,
+  "isComplete": true,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "6492207293dc4ef79f7bc0f7"
+  },
+  "name": "Neill Log House ",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/c/ce/Neill_Log_House_Pittsburgh_2019.jpg"
+  ],
+  "short_info": "<p><span>The Neill Log House is a serene historical spot situated in the vast greenery of one of the city’s largest natural spaces, Schenley Park, and is also considered to be the oldest existing residential structure in all of Pittsburgh. One of the few remaining buildings from the eighteenth century, it’s historical status was crowned by the Pittsburgh History and Landmarks Foundation in 1970. An iconic example of typical Pennsylvania frontier architecture, this idyllic oak structure is considered to be one of Schenley Park’s best hidden gems. </span></p>",
+  "long_info": "<p><span>Located officially in Squirrel Hill and managed by the Squirrel Hill Historical Society, the Neill Log House is one of the dozens of historical sites that rests along the Lewis and Clark National Historical Trail. First built in the mid-eighteenth century,, the small wood cabin was originally occupied by a soldier stationed at Ft. Pitt, with the Neill family moving in around 1774. </span></p><p><br /></p><p><span>The soldier’s name was Ambrose Newton, and although the history of the ownership of the  log house itself is contested, he was officially the one to lay claim to the 262 acres of what is now known as Schenley Park. The Neill family officially moved in by 1774, and proceeded to reside in the house for the next 21 years. Occupants included Robert Neill, his wife Elizabeth, and their five children along with their two horses, three cows, and other livestock. </span></p><p><br /></p><p><span>The ample source of running water and ideal location for pasture makes it clear what led Robert to claim the house, and it was also a mere four miles from Fort Pitt, an army post which the homesteaders could use for protection or trade. The house was also thought to have been passed by Meriwether Lewis on his second trip to Pittsburgh, hence its inclusion on the list of Lewis and Clark sites. </span></p><p><br /></p><p><br /></p>",
+  "category": "Historical Location",
+  "lat": 40.435919711529166,
+  "long": -79.93560579325728,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "649223b893dc4ef79f7bc102"
+  },
+  "name": "Christopher Columbus Statue ",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/a/a1/Christopher_Columbus_monument_in_Schenley_Park_2.JPG"
+  ],
+  "short_info": "<p>Frank Vittor’s 50 foot tall granite statue of Christopher Columbus was installed in 1958, right outside the Phipps Conservatory entrance to Oakland’s Schenley Park. The statue, standing tall over Flagstaff Hill for over 60 years, has proven to be a center of controversy surrounding public art since <span>movements of resistance to settler colonialism and anti-Blackness gained support in the summer of 2020. </span>Upon the city’s decision to remove the statue, citing Columbus's association with the legacy of slavery and colonialism, the Italian Sons and Daughters of Pittsburgh sued the city and sought an emergency injunction to stop its removal. The statue has since been in legal deadlock and stands covered in the park to this day.</p><p><br /></p><p>Despite the controversy surrounding the statue, its origins remain important to the Italian American community of the city. An immigrant from Italy, sculptor Frank Vittor made a career of sculpting famous American figures such as Mark Twain, Abraham Lincoln, and Honus Wagner, as well as teaching the art of sculpting to others. His statue of Italian-born Columbus was created with the support of the Sons of Columbus of America, to honor their shared heritage. </p><p><br /></p>",
+  "long_info": "",
+  "category": "Historical Location",
+  "lat": 40.44041344491933,
+  "long": -79.94835639815315,
+  "isComplete": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6492d92c93dc4ef79f7bc127"
+  },
+  "name": "Cathedral of Learning, Nationality and Heritage Rooms",
+  "images": [
+    "https://upload.wikimedia.org/wikipedia/commons/9/99/Indianroom2.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/a/a3/Cathedral_of_Learning_African_Heritage_Classroom_%2816828336231%29.jpg",
+    "https://upload.wikimedia.org/wikipedia/commons/4/44/AustrianRoom.jpg"
+  ],
+  "short_info": "<p>The University of Pittsburgh's renowned Nationality and Heritage Rooms are gifts from the ethnic communities who helped to build Pittsburgh and originated in 1926 when the ground was broken for the construction of the 42-story gothic-style Cathedral of Learning. The thirty unique rooms celebrate the cultural heritages of the communities who supported and planned their construction. The rooms are used as fully functional classrooms, and embody the University’s commitment to globally-facing learning. </p><p><br /></p>",
+  "long_info": "<p>The Nationality and Heritage Rooms compose the Cathedral of Learning’s first three floors and were built in waves in the 1930s, 1950s and 1980s. In the original concept for the rooms, its creators took inspiration from the second-generation students at the University of Pittsburgh, and sought to incorporate their cultures into their learning environment. The design of each room was inspired by international artists, architects, and craftspeople. The rooms were intentionally built to reflect the lasting elements of education, and there is a lack of religious and political iconography in the rooms. The rooms also reflect national expression and communities in diaspora. </p><p><br /></p><p>Each of the Nationality and Heritage Rooms was designed by a committee, a select group of people who would act as representatives for the greater ethnic community. The committees were responsible for raising funds and organizing and designing their rooms. The committee system ensured that ethnic groups who were already well-represented in the greater Pittsburgh community would be more likely to have a Nationality and Heritage room. Therefore, the rooms reflect not only broad patterns of immigration to the United States, but also which groups were established enough to influence the creation of rooms that represented their heritage. </p><p><br /></p><p>While the Nationality and Heritage Rooms are undoubtedly an important example of cultural diversity and internationalism, they do not fully represent the expression of the diverse immigrant communities of the greater Pittsburgh area. While there are some rooms from the Global South, the majority of the rooms represented are European countries and there are no rooms associated with Latin American cultures. There is also one room dedicated to African heritage, simplifying the diverse cultures of an entire continent into a single room. Faced with these shortcomings, it is important to remember the Nationality and Heritage Rooms are an ongoing project, one that continues to advance intercultural learning and to foster an appreciation of diverse perspectives. </p><p><br /></p><p><strong>Further Reading: </strong>Lauren Ban, \"Nationality Rooms: a Case Study in Immigration Patterns,\" digital exhibit created for the Digital Atlas Design Internship. Harold S. Wechsler, “One-Third of a Campus: Ruth Crawford Mitchell and Second-Generation Americans at the University of Pittsburgh,” <em>History of Education Quarterly,</em> 2008. </p>",
+  "category": "Historical Location",
+  "lat": 40.4449503798119,
+  "long": -79.95317655767163,
+  "isComplete": true,
+  "__v": 1
 }]
